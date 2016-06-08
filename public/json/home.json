@@ -1,0 +1,100 @@
+{ 
+    "general":
+    [
+        {
+           
+            "link-facebook": "fb.com",
+            "link-twitter": "twit.com",
+            "footer": "<p></p>"
+        }
+    ],
+    "featured-top":
+    [
+        {
+            "title": "SHOCK DISCOVERIES DISCOVERED IN UK SHOCK!",
+            "url": "content-3.html",
+            "author": "Jennifer Lopez",
+            "author-image": "images/face-1.jpg",
+            "date": "03/03/",
+            "media": "images/story-1.jpg",
+            "intro": "<p>Some strange happenings have been happening over in the UK this week, and so our investigative news team have been investigating. </p>",
+            "article": "<h3>Heading 3</h3><p>Sed ut perspiciatis <a href='#'>unde omnis</a> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><p>Sed ut perspiciatis unde omnis iste <a href='#''>natus error sit</a> voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h4>Heading 4</h4><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h5>Heading 5</h5><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p>",
+            "link-text": "Find out more"
+        }
+    ],
+    "articles":
+    [
+        {
+            "title": "FAMOUS BIRD-WATCHERS CONFIRM MADNESS",
+            "url": "content-4.html",
+            "author": "Beyonce Knowles",
+            "author-image": "images/face-1.jpg",
+            "date": "03/03/",
+            "media": "images/story-2.jpg",
+            "intro": "<p>Revered ornithologists and beloved celebrities Bill Oddie and Chris Packham have given their professional opinions on what on earth a giant chocolate hen is doing here.</p>",
+            "article": "<h3>Heading 3</h3><p>Sed ut perspiciatis <a href='#'>unde omnis</a> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><p>Sed ut perspiciatis unde omnis iste <a href='#''>natus error sit</a> voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h4>Heading 4</h4><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h5>Heading 5</h5><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p>",
+            "link-text": "Find out more"
+        },
+        {
+            "title": "GIANT FOOTPRINT LEAVES LASTING IMPRESSION",
+            "url": "content-5.html",
+            "author": "Gwen Stefani",
+            "author-image": "images/face-1.jpg",
+            "date": "03/03/",
+            "media": "images/story-3.jpg",
+            "intro": "<p>A worryingly big footprint in the shape of a bird claw has been caught on camera by local photographer, Mike Milestone. And 63 other people. </p>",
+            "article": "<h3>Heading 3</h3><p>Sed ut perspiciatis <a href='#'>unde omnis</a> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><p>Sed ut perspiciatis unde omnis iste <a href='#''>natus error sit</a> voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h4>Heading 4</h4><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h5>Heading 5</h5><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p>",
+            "link-text": "Find out more"
+        },
+        {
+            "title": "EXCLUSIVE: NEW SPECIES OF GIANT MONKEY-BIRD, DRAWN",
+            "url": "content-6.html",
+            "author": "Lana del Ray",
+            "author-image": "images/face-1.jpg",
+            "date": "03/03/",
+            "media": "images/story-4.jpg",
+            "intro": "<p>After literally minutes of speculation, popular artist Ian Penn solves the mystery of the giant footprint. With unsubstantiated guesswork. </p>",
+            "article": "<h3>Heading 3</h3><p>Sed ut perspiciatis <a href='#'>unde omnis</a> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><p>Sed ut perspiciatis unde omnis iste <a href='#''>natus error sit</a> voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h4>Heading 4</h4><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h5>Heading 5</h5><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p>",
+            "link-text": "Find out more"
+        }
+    ],
+    "featured-bottom":
+    [
+        {
+            "title": "This is a featured title",
+            "url": "this-is-a-featured-title",
+            "author": "Katy Perry",
+            "author-image": "images/face-1.jpg",
+            "date": "03/03/",
+            "media": "images/story-5.jpg",
+            "intro": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p>",
+            "article": "<h3>Heading 3</h3><p>Sed ut perspiciatis <a href='#'>unde omnis</a> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><p>Sed ut perspiciatis unde omnis iste <a href='#''>natus error sit</a> voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h4>Heading 4</h4><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h5>Heading 5</h5><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p>",
+            "link-text": "Find out more"
+        }
+    ],
+    "sidebar":
+    [
+        {
+            "title": "Shaun Shawn",
+            "url": "shaun-shawn.html",
+            "author": "Alanis Morrisette",
+            "author-image": "images/face-1.jpg",
+            "date": "03/03/",
+            "media": "images/face-1.jpg",
+            "intro": "<p>A decade as anchorman behind the NewsHD news desk has seen Shaun Shawn become a household name in over three houses in America. Widely known as being able to exaggerate the importance of even the smallest news scoop, Shaun makes it his business to know your business. Some call him nosey but he calls it ‘knowsy’. </p>",
+            "article": "<h3>Shaun Shawn</h3><p> <a href='#'>unde omnis</a> A decade as anchorman behind the NewsHD news desk has seen Shaun Shawn become a household name in over three houses in America. Widely known as being able to exaggerate the importance of even the smallest news scoop, Shaun makes it his business to know your business. Some call him nosey but he calls it ‘knowsy’. </p>",
+            "link-text": "Find out more"
+        },
+        {
+            "title": "Peter Bird",
+            "url": "peter-bird.html",
+            "author": "Shirley Manson",
+            "author-image": "images/face-2.jpg",
+            "date": "03/03/",
+            "media": "images/face-2.jpg",
+            "intro": "<p>Peter Bird PhD arrived at NewsHD in 2015 bringing a lifetime of experience. While he is fairly new to our viewers he claims in England his wit was a thing of note and that his sense of humour is dryer than crisp crumbs in a desert. Our latest market research focus group described him as ‘barely watchable’ and ‘odd’ and ‘British’.</p>",
+            "article": "<h3>Heading 3</h3><p>Sed ut perspiciatis <a href='#'>unde omnis</a> iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><p>Sed ut perspiciatis unde omnis iste <a href='#''>natus error sit</a> voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h4>Heading 4</h4><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p><h5>Heading 5</h5><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore eritatis et quasi.</p>",
+            "link-text": "Find out more"
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+@font-face {
+  font-family: linetoCircularBold;
+  src: url(/assets/font-awesome/fonts/lineto-circular-bold.ttf);
+}
+
+@font-face {
+  font-family: linetoCircularBook;
+  src: url(/assets/font-awesome/fonts/lineto-circular-book.ttf);
+}
+
+@font-face {
+  font-family: sanchezRegular;
+  src: url(/assets/font-awesome/fonts/Sanchez-Regular.ttf);
+}
+
+body {
+  font-family: sanchezRegular;
+} 
+
+a{
+  font-family: linetoCircularBold;
+} 
+
+h1{
+  font-family: linetoCircularBook;
+}
+
+section header h2 {
+  font-family:linetoCircularBook 
+}
+
+#home .carousel-inner .item .text h2{
+  font-family: linetoCircularBook;
+}
+
+.logo .wrap {
+  border: 1px solid #fff;
+  max-height:100%;
+  max-width:100%;
+  margin:auto;
+  display:block;
+  background-size: contain;
+  background-image: url(../img/forest.png);
+  display:none;
+}
+
+#nav-logo {
+    width: 127px;
+    height: auto;
+    padding-top: 17px;
+    margin-left: 30px;
+    position: relative;
+    left: -15px;
+}
+  
+}
+
+#home .carousel-inner .item.item-1 {
+  background-image: url(../../img/forest-road_small.jpg);
+  box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.5);
+}
+/*
+#F4EFE3 - white
+#006F41 - green*/
+
+p{
+  color:#006F41;
+}
+
+#header .navbar-toggle{
+  color:#FFF;
+}
+
+#header .navbar-collapse {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+body{
+  background-color: blue;
+}
+
+#header .navbar {
+  height: 70px;
+  background: #006F41;
+  -webkit-box-shadow: 0 2px 6px 0 rgba(0,0,0,.2);
+  -moz-box-shadow: 0 2px 6px 0 rgba(0,0,0,.2);
+  box-shadow: 0 2px 6px 0 rgba(0,0,0,.2);
+  border: 0;
+}
+
+#header .navbar-collapse {
+  background: #006F41;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.homebuttons a {
+  color:#FFF !important;
+}
+
+.counter {
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-image: url(../../img/boil.jpg);
+  text-align: center;
+  padding: 70px 0;
+  z-index: 2;
+  position: relative;
+  color: #fff;
+  box-shadow: 0 2px 6px 0 rgba(0,0,0,.3);
+
+}
+
+.navbar navbar-fixed-top{
+  background: white;
+}
+
+img .forest-road {
+  color:white;
+  width:300px;
+  height:auto;
+}
+
+#forest {
+  width:300px;
+}
+#footer{
+}
+
+#contact h2 {
+  font-size: 26px;
+  line-height: 35px;
+}
+
+.photo-middle{
+ background-repeat:no-repeat;
+ -webkit-background-size:cover;
+ -moz-background-size:cover;
+ -o-background-size:cover;
+ background-size:cover;
+ background-position:center;
+ background-image: url(../../img/nofox.png) no-repeat;
+}
+
+
+#home .carousel-inner .item .logo {
+  margin-bottom: 35px;
+  display: none;
+}
+
+#work{
+  width: 40%;
+  height:auto;
+}
+
+#features{
+  background-color: #fff;
+}
+
+#fox{
+  width:60%;
+  height:auto;
+  margin-right: 60px;
+}
+
+#east{
+  padding-top: 30px;
+}
+
+.video .content .icon {
+  height:60px;
+  width:60px;
+  line-height: 61px;
+}
+
+.beer-science {
+  text-align: left;
+  color:#fff;
+}
+
+.beer-science p {
+  color: #fff;
+}
+
+.video .content .icon .fa {
+    position: relative;
+    left: 0px;
+}
+
+section header .dotted-break {
+    width: 210px;
+    height: 5px;
+    margin: 21px auto;
+    background-color: #006F41;
+  }
+
+.tryit  {
+  background-color: white;
+  border-color: #006F41;
+  width: 140px;
+  height: 41px;
+  color: #006F41;
+  font-family: linetoCircularBold;
+  font-size: 23px;
+}
+
+#science {
+  // background-image: url(/img/beerback.jpg);
+ background-size: 100% 100%;
+ color:#fff;
+}
+
+section header h1 {
+  text-transform: none;
+  color:#006F41;
+}
+
+section header h2 {
+  text-transform: none;
+  color:#006F41 !important;
+  font-family:sanchezRegular
+}
+
+#contact {
+  background-image: none;
+  background-color: #fff;
+}
+
+.form-control {
+  border-color: #006F41;
+  border: 2px solid #006F41 ;
+}
+
+#contact .info {
+  color:#006F41;
+  margin-top:71px;
+}
+
+#msg {
+  height:115px;
+}
+
+.contactus {
+
+ position: absolute;
+ margin-left: auto;
+ margin-right: auto;
+ left: 0;
+ right: 0;
+ margin-top: 20px;
+}
+
+#contact .info .icon {
+    font-size: 20px;
+    display: inline-block;
+    width: 25px;
+    margin: 0;
+    color: green;
+    position: relative;
+    top: 2px;
+}
+
+#footer {
+  background:#006F41;
+}
+
+#features .container h1 {
+  font-size: 56px;
+}
+
+#features .container p {
+  font-size: 26px;
+      text-align: left;
+      width: 340px;
+      line-height: 33px;
+}
+
+
+#science .container p {
+  font-size: 26px;
+      text-align: left;
+      width: 340px;
+      line-height: 33px;
+}
+
+@media all and (max-width: 599px){
+  #features .container p {
+        text-align: center;
+       
+  }
+}
+
+input::-webkit-input-placeholder {
+color:#006F41  !important;
+
+}
+
+footer {
+  background-color: #006F41;
+  height:200px;
+  color:#fff;
+  padding-top: 20px;
+  font-size:24px;
+  line-height: 38px
+
+}
+
+#footer_logo {
+  width: 87px;
+      position: absolute;
+      top: 22px;
+      left: 48px;
+}
+
+footer p {
+  color:#fff;
+}
+
+#home .carousel-inner .item .text h2 {
+  text-transform: none;
+  font-size: 33px;
+}

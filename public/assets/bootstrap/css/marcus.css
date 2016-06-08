@@ -1,0 +1,13 @@
+.logo .wrap {
+    border: 1px solid #fff;
+    height: 100%;
+    font-size: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 46px;
+    background-color: red !important;
+}
+
+body{
+  background-color: red;
+}
