@@ -12,6 +12,9 @@ var sendgrid = require('sendgrid')("SG.E3qscNvaSaa3uhWtXSF2pw.8bYOnHeq06bsUHv78q
 var email = new sendgrid.Email();
 var port = process.env.PORT || 3000;
 var databaseURL = process.env.MONGOLAB_URI || 'mongodb://localhost/forestroad';
+var twitter = require('./controllers/twitterController');
+var instagram = require('./controllers/instagramController');
+var routes = require('./config/routes');
 
 mongoose.connect(databaseURL);
 
@@ -48,6 +51,15 @@ app.get('/', function(req,res){
   res.render('index')
 });
 
+app.get('/twitter', twitter.getTweets )
+
+app.get('/instagram', instagram.authorize_user)
+
+app.get('/instagram/callback', instagram.handleauth)
+
+app.get('/photos', instagram.getPhotos)
+
+// app.use("/api", routes);
 
 app.listen(port, function(){
   console.log('listening on port 3000')
